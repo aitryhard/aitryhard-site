@@ -41,7 +41,9 @@ export default function Hero() {
           tg/@aitryhard
         </a>
         <a
-          href="mailto:a1tryh4rd@gmail.com"
+          href="https://mail.google.com/mail/?view=cm&fs=1&to=a1tryh4rd@gmail.com"
+          target="_blank"
+          rel="noopener noreferrer"
           className="font-mono text-xs border border-border rounded-full px-4 py-1.5 text-muted hover:text-fg hover:border-accent/50 hover:bg-accent/5 transition-all duration-300"
         >
           a1tryh4rd@gmail.com
