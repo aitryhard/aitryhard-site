@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://aitryhard-site.vercel.app"),
+  metadataBase: new URL("https://aitryhard.vercel.app"),
   title: "aitryhard",
   description: "desktop apps · backend · ai — actively learning, building, practicing",
   openGraph: {
