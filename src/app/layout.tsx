@@ -13,11 +13,20 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://aitryhard-site.vercel.app"),
   title: "aitryhard",
-  description: "desktop apps · backend · ai",
+  description: "desktop apps · backend · ai — actively learning, building, practicing",
   openGraph: {
     title: "aitryhard",
     description: "building desktop apps, backend services and ai tools",
+    siteName: "aitryhard",
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "aitryhard",
+    description: "desktop apps · backend · ai",
   },
 };
 
