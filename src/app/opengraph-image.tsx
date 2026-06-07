@@ -27,7 +27,7 @@ export default function Image() {
           }}
         >
           <img
-            src="https://avatars.githubusercontent.com/u/182519272?v=4"
+            src="https://avatars.githubusercontent.com/u/182519272?v=5"
             width={80}
             height={80}
             style={{ borderRadius: '50%', border: '1px solid #1a1a2e' }}

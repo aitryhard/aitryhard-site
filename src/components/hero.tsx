@@ -4,7 +4,7 @@ export default function Hero() {
       <div className="relative">
         <div className="absolute inset-0 rounded-full bg-accent/20 blur-2xl animate-glow" />
         <img
-          src="https://avatars.githubusercontent.com/u/182519272?v=4"
+          src="https://avatars.githubusercontent.com/u/182519272?v=5"
           alt="aitryhard"
           className="relative size-20 rounded-full border border-border"
         />
